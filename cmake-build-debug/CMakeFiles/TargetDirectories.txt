@@ -1,0 +1,3 @@
+C:/Users/Matteo/Desktop/TNV/Esercizio2.12/cmake-build-debug/CMakeFiles/Esercizio2_12.dir
+C:/Users/Matteo/Desktop/TNV/Esercizio2.12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Matteo/Desktop/TNV/Esercizio2.12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

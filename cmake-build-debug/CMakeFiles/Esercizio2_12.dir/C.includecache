@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Matteo/Desktop/TNV/Esercizio2.12/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+stdbool.h
+-
+
